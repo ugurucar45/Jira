@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNg Runner Practice">
+    
+    <test name="Tesla Tests">
+        <classes>
+            <class name="Tesla.TeslaTest.TeslaTeste"></class>
+        </classes>
+    </test>
+<!--    <test name="Negative Tesla Tests">-->
+<!--        <classes>-->
+<!--            <class name="Tesla.TeslaTest.NegativeTestsTesla"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+    
+</suite>
